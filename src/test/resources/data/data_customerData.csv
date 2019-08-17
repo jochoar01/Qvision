@@ -1,0 +1,3 @@
+id;columnaFiltro;firstname;lastname;documentType;document;expeditionDate;phone;cellphone;email;dpto;city;neighborhood;address;sector
+1;exitoso;Andrea;Melenge;1;1239100724;10121990;3345654;3102569878;correo@correo.com;5;Bogota;;KR 78 I # 58 - 57 SUR;
+2;exitoso;Maria;Melenge;1;1239100725;10121990;3345654;3102569878;correo@correo.com;5;Bogota;;KR 78 I # 58 - 57 SUR;

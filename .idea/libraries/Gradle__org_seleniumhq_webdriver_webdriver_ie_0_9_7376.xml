@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.webdriver:webdriver-ie:0.9.7376">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.webdriver/webdriver-ie/0.9.7376/6414ec7f160a0ae6e754fb42b1f064101d5a4117/webdriver-ie-0.9.7376.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.webdriver/webdriver-ie/0.9.7376/1532a221fa8ac3e24b1543d5e5607257cc3337c0/webdriver-ie-0.9.7376-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
