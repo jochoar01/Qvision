@@ -123,7 +123,7 @@ public class BuyPage extends InitialConfig {
 			waitForElement(NEW_MAIL_BUTTON, 3000);
 			click(NEW_MAIL_BUTTON);
 			waitForElement(MAIL_ADDRESS, 3000);
-			type(MAIL_ADDRESS,"jochoar01@gmail.com");				
+			type(MAIL_ADDRESS,"dzapata@qvision.us");				
 			type(MAIL_SUBJECT,"Voucher Dress");
 			click(ADJ_BUTTON);
 			click(ADJ_BUTTON2);
